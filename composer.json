@@ -21,7 +21,7 @@
     "require-dev": {
         "symfony/maker-bundle": "^1.13",
         "symfony/web-server-bundle": "4.3.*",
-        "symfony/apache-pack": "1.0.*",
+        "symfony/apache-pack": "1.0.*"
     },
     "config": {
         "preferred-install": {
