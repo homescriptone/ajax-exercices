@@ -1,6 +1,6 @@
 # AJAX Exercices
  
-This exercises is a TP, it can send data from a form to its server and display the data that has been sent.
+This exercise is a TP, it can send data from a form to its server and display the data that has been sent.
 
 # Requirements
 
